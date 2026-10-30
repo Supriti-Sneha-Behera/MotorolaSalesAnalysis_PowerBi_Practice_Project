@@ -13,7 +13,7 @@ business metrics.
 
 # Tools Used
 
-* Microsoft Power BI Desktop
+* Microsoft Power BI 
 * Microsoft Excel
 
 # Objectives
