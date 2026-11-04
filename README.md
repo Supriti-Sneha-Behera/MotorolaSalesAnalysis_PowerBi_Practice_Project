@@ -1,4 +1,4 @@
-# MotorolaSalesAnalysis_PowerBi_Practice_Project
+# MotorolaSalesAnalysis PowerBi Practice Project
 
 An interactive Power BI dashboard project built to summarize key sales
 performance indicators for a Motorola sales dataset. The report is
